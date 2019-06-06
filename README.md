@@ -1,4 +1,4 @@
-# Introduction
+# Subreddit Classification with NLP
 
 
 For this project, we were required to scrape two sub-reddits and than use NLP and a Bayes Classifier to try and predict from which sub-reddit the post came. The two sub-reddits that I chose to compare are:
